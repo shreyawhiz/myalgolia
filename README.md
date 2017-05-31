@@ -2,8 +2,6 @@
 This is a wrapper module to index one or many indexes together.
 
 
-###Please Star it on github if you liked it
-
 ##Installation
 
 Installing using npm (node package manager):

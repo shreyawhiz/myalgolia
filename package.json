@@ -1,0 +1,21 @@
+{
+	"name": "myalgolia",
+	"version": "1.0.0",
+	"description": "wrapper to update multiple indices from one place",
+	"main": "myalgolia.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Shreya Batra (https://github.com/shreyawhiz)",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shreyawhiz/myalgolia"
+	},
+	"dependencies": {
+		"algoliasearch": "^3.10.2",
+		"lodash": "^4.16.0",
+		"async": "~1.5.2",
+	},
+	"keywords": ["algolia", "algoliasearch", "algolia search", "algolia-node", "node-algolia", "algolia api", "algolia index", "algolia indexing", "indexing", "indexes", "indices", "algolia wrapper", "node algolia wrapper", "algolia wrapper node", "node wrapper algolia"]
+}

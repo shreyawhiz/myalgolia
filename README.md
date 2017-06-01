@@ -1,7 +1,7 @@
 # myalgolia
 This is a wrapper module to index one or many indexes together.
 
-
+Star https://www.npmjs.com/package/myalgolia if you like it.
 ##Installation
 
 Installing using npm (node package manager):
